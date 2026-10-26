@@ -1,18 +1,13 @@
-THE BLESSING VOICES - 26 OCTOBER 2026
+NINE CONTENT UPDATE - 26 OCTOBER 2026
 
-This update adds actual PDF covers to the right of the story download panels, stacks covers above download buttons on phones, and adds matching illustrations and Read story links to related-story cards.
+Includes nine updated stories with actual PDF cover previews, related-story illustrations, and mobile styling matching the earlier website update. Old website-address links in supplied story pages have been corrected. The full 67-entry index is included so your existing library is preserved.
 
-HOW TO UPDATE
-1. Back up your current website repository.
-2. Extract The-Blessing-Voices-Update-Files.zip.
-3. Copy its CONTENTS into your website repository root, merging folders and replacing matching files. Do not upload the ZIP itself or add another folder level.
+1. Back up your website repository.
+2. Extract Nine-Contents-Same-Style-Update.zip.
+3. Copy its contents into the repository root; merge folders and replace matching files. Do not upload the ZIP or create an extra folder level.
 4. Commit to the branch used by GitHub Pages and wait for deployment.
-5. Refresh and check a story page on desktop and phone. Test the cover and download button.
+5. Check stories, thumbnails and PDF downloads on desktop and phone.
 
-FILES: 118 added or changed files: app.js, style.css, 58 story pages, and 58 cover images. See FILES-TO-UPDATE.txt for the exact list. Upload them together.
+Upload all 39 website files listed in FILES-TO-UPDATE.txt. This package includes app.js and style.css, so the thumbnail styling works even if the previous update has not been uploaded. The complete website ZIP is provided as an alternative.
 
-The Full-Website ZIP contains the complete supplied site plus the thumbnail updates. The Update-Files ZIP contains only additions and replacements.
-
-This version implements the two thumbnail changes discussed in the chat. Other content, counts and contact behavior are preserved. It is based on your supplied folder, not synchronized with later live-site edits. Your Desktop original was not modified.
-
-Preview with a local web server or GitHub Pages. Opening index.html directly may block the site's JavaScript modules and story index.
+Validation: all 67 indexed stories and their local images, PDFs, cover images and page links checked; JavaScript syntax checked. Browser layout preview could not be completed in this environment. Original source folders are unchanged.
